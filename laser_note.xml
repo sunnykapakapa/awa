@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<TextureAtlas imagePath="laser_note.png">
+
+<!-- Created with Adobe Animate version 21.0.6.41649 -->
+
+
+<!-- http://www.adobe.com/products/animate.html -->
+
+
+<SubTexture height="64" width="50" y="5" x="5" name="blue hold end0000"/>
+
+<SubTexture height="44" width="50" y="5" x="60" name="blue hold piece0000"/>
+
+<SubTexture height="154" width="157" y="5" x="115" name="blue0000"/>
+
+<SubTexture height="64" width="50" y="5" x="5" name="green hold end0000"/>
+
+<SubTexture height="44" width="50" y="5" x="60" name="green hold piece0000"/>
+
+<SubTexture height="154" width="157" y="5" x="277" name="green0000"/>
+
+<SubTexture height="157" width="154" y="164" x="5" name="purple0000"/>
+
+<SubTexture height="64" width="50" y="5" x="5" name="pruple end hold0000"/>
+
+<SubTexture height="44" width="50" y="5" x="60" name="purple hold piece0000"/>
+
+<SubTexture height="64" width="50" y="5" x="5" name="red hold end0000"/>
+
+<SubTexture height="44" width="50" y="5" x="60" name="red hold piece0000"/>
+
+<SubTexture height="157" width="154" y="164" x="164" name="red0000"/>
+
+</TextureAtlas>
